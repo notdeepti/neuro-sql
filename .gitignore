@@ -1,0 +1,22 @@
+# Database credentials — NEVER commit
+resources/db.properties
+resources/
+
+# Java build output
+*.class
+out/
+build/
+target/
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Generated data files — too large for Git
+python/eeg_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
