@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class SpikeTest {
 
     // Change this number to whatever EEGDataLoader printed as Session ID
-    private static final int SESSION_ID = 1;
+    private static final int SESSION_ID = 5;
 
     public static void main(String[] args) throws Exception {
 
